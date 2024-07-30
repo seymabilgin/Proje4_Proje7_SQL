@@ -1,3 +1,4 @@
+ÖDEV7
 Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden gerçekleştiriniz.
 
 film tablosunda bulunan filmleri rating değerlerine göre gruplayınız.
