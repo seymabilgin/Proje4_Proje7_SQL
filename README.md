@@ -10,3 +10,10 @@ test veritabanınızda employee isimli sütun bilgileri id(INTEGER), name VARCHA
 Oluşturduğumuz employee tablosuna 'Mockaroo' servisini kullanarak 50 adet veri ekleyelim.
 Sütunların her birine göre diğer sütunları güncelleyecek 5 adet UPDATE işlemi yapalım.
 Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
+
+ÖDEV11
+
+actor ve customer tablolarında bulunan first_name sütunları için tüm verileri sıralayalım.
+actor ve customer tablolarında bulunan first_name sütunları için kesişen verileri sıralayalım.
+actor ve customer tablolarında bulunan first_name sütunları için ilk tabloda bulunan ancak ikinci tabloda bulunmayan verileri sıralayalım.
+İlk 3 sorguyu tekrar eden veriler için de yapalım.
