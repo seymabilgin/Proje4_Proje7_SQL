@@ -1,0 +1,2 @@
+DELETE FROM employee
+WHERE id IN (5,10,15,20,25);
